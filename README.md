@@ -1,7 +1,8 @@
 # Multitool
 A little tool that has many tools in it. 
 
-Tools: Web Browser and Calculator(COMING SOON)
+Tools: Web Browser and Calculator
+More is coming soon
 
 Web Browser
  You can browse the Internet with it but it's not very secure, but it's better than nothing.
